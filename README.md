@@ -1,2 +1,1 @@
-# Codingan
-Kumpulan Codingan
+Lisensi By farisrasyid.site
