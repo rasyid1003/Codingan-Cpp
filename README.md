@@ -1,1 +1,1 @@
-Lisensi By farisrasyid.site
+Lisensi By http://farisrasyid.my.id
