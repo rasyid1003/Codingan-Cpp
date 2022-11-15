@@ -8,9 +8,9 @@
 I'm a full stack developer...
 
 
-# GOLANG FOR BEGINER
+# CODINGAN C++
 
-Kumpulan Codingan GOLANG
+Kumpulan Codingan C++
 
 
 ## Feedback
